@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="twitterdatastream:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/twitterdatastream_jar</output-path>
+    <root id="archive" name="twitterdatastream.jar">
+      <element id="module-output" name="twitterdatastream" />
+    </root>
+  </artifact>
+</component>
